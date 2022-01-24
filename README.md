@@ -1,2 +1,2 @@
-# Note_C#_Beginner
+# Note_C#
 My learning notes
